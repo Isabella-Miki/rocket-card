@@ -1,4 +1,3 @@
-
 import './App.css'
 import MainCard from './components/MainCard'
 
@@ -9,5 +8,4 @@ function App() {
     </div>
   )
 }
-
 export default App
